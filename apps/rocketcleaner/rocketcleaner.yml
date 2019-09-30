@@ -1,0 +1,10 @@
+name: RocketCleaner
+description: 'Mac OS Cleaner hdd & ram.'
+website: 'https://github.com/miladdavoodi/RocketCleaner'
+category: Utilities
+repository: 'https://github.com/miladdavoodi/RocketCleaner'
+keywords:
+    - macCleaner
+    - CleanerHdd
+    - CleanerRam
+license: MIT
